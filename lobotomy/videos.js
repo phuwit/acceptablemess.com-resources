@@ -1,4 +1,4 @@
-const videos_url = {
+const videosUrl = {
   'https://youtu.be/': [
     "HivzkuXoQ9U",
     "aOmGMQxZDv0",
